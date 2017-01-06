@@ -4,9 +4,13 @@ This extension styles css/web colors found in your document.
 
 ## Install
 
-In VSC press Ctrl+Shift+P (Cmd+Shift+P on Mac) then type ">ext install", hit enter, search "Color Highlight".
+In VSC press Ctrl+Shift+P (Cmd+Shift+P on Mac) then type ">ext install", hit enter, search "Color Highlight". As of this upload, it is version 1.3.0. I have added a scroll bar color toggle and corresponding user setting.
 
-Still confused? Click "Get Started" above.
+You can download this and install this pre-compiled folder into your .vscode\extensions\ folder. Usually in the user\ directory.
+the full location is C:\users\yourname\.vscode\extensions\naumovs.color-highlight-1.3.0
+
+the important files are dist\extension.js, package.json, .vsixmanifest, that's all. I installed 1.3.0 from the vscode extension menu, then overwrote the files with my changes. (1.3.1) have fun.
+
 
 
 ## Changelist
