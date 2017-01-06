@@ -10,8 +10,10 @@ Still confused? Click "Get Started" above.
 
 
 ## Changelist
+
 ### 1.3.1
   - Feat: Toggle colors in the ruler (scroll bar)
+
 ### 1.3.0
   - Feat: Support hex alpha
   - Fix: Accidental highlighting of strings like "#1234567890"
