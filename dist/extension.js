@@ -219,7 +219,7 @@ module.exports =
 	  }
 	
   getColorDecoration(color) {
-		let rules = {};
+	let rules = {}; /* 1.3.1 */
        if (this.markRuler) {
         rules = {
         overviewRulerColor: color
